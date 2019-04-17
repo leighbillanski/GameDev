@@ -1,0 +1,10 @@
+C:\Users\Me\source\repos\Assignment2(Game Dev)\Assignment2(Game Dev)\obj\Debug\Assignment2(Game Dev).csprojAssemblyReference.cache
+C:\Users\Me\source\repos\Assignment2(Game Dev)\Assignment2(Game Dev)\obj\Debug\Assignment2_Game_Dev_.Form1.resources
+C:\Users\Me\source\repos\Assignment2(Game Dev)\Assignment2(Game Dev)\obj\Debug\Assignment2_Game_Dev_.Properties.Resources.resources
+C:\Users\Me\source\repos\Assignment2(Game Dev)\Assignment2(Game Dev)\obj\Debug\Assignment2(Game Dev).csproj.GenerateResource.cache
+C:\Users\Me\source\repos\Assignment2(Game Dev)\Assignment2(Game Dev)\obj\Debug\Assignment2(Game Dev).csproj.CoreCompileInputs.cache
+C:\Users\Me\source\repos\Assignment2(Game Dev)\Assignment2(Game Dev)\bin\Debug\Assignment2(Game Dev).exe.config
+C:\Users\Me\source\repos\Assignment2(Game Dev)\Assignment2(Game Dev)\bin\Debug\Assignment2(Game Dev).exe
+C:\Users\Me\source\repos\Assignment2(Game Dev)\Assignment2(Game Dev)\bin\Debug\Assignment2(Game Dev).pdb
+C:\Users\Me\source\repos\Assignment2(Game Dev)\Assignment2(Game Dev)\obj\Debug\Assignment2(Game Dev).exe
+C:\Users\Me\source\repos\Assignment2(Game Dev)\Assignment2(Game Dev)\obj\Debug\Assignment2(Game Dev).pdb
