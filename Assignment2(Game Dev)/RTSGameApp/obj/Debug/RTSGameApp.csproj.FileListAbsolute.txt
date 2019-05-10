@@ -1,0 +1,10 @@
+C:\Users\Me\source\repos\RTSGameApp\RTSGameApp\bin\Debug\RTSGameApp.exe.config
+C:\Users\Me\source\repos\RTSGameApp\RTSGameApp\bin\Debug\RTSGameApp.exe
+C:\Users\Me\source\repos\RTSGameApp\RTSGameApp\bin\Debug\RTSGameApp.pdb
+C:\Users\Me\source\repos\RTSGameApp\RTSGameApp\obj\Debug\RTSGameApp.csprojAssemblyReference.cache
+C:\Users\Me\source\repos\RTSGameApp\RTSGameApp\obj\Debug\RTSGameApp.Form1.resources
+C:\Users\Me\source\repos\RTSGameApp\RTSGameApp\obj\Debug\RTSGameApp.Properties.Resources.resources
+C:\Users\Me\source\repos\RTSGameApp\RTSGameApp\obj\Debug\RTSGameApp.csproj.GenerateResource.cache
+C:\Users\Me\source\repos\RTSGameApp\RTSGameApp\obj\Debug\RTSGameApp.csproj.CoreCompileInputs.cache
+C:\Users\Me\source\repos\RTSGameApp\RTSGameApp\obj\Debug\RTSGameApp.exe
+C:\Users\Me\source\repos\RTSGameApp\RTSGameApp\obj\Debug\RTSGameApp.pdb
